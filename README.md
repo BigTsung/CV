@@ -1,5 +1,9 @@
 # CV
 
+Common
+1. Image Loading
+2. Video Capture
+
 Object Detection & Tracking
 1. Background Subtraction
 2. Edge Dettection
