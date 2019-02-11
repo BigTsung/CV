@@ -1,0 +1,3 @@
+/Users/aemass.yutsungchiu/Chiu/CV/Common/VideoCapture/build/CMakeFiles/rebuild_cache.dir
+/Users/aemass.yutsungchiu/Chiu/CV/Common/VideoCapture/build/CMakeFiles/edit_cache.dir
+/Users/aemass.yutsungchiu/Chiu/CV/Common/VideoCapture/build/CMakeFiles/VideoCapture.dir
