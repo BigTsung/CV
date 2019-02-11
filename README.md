@@ -8,8 +8,9 @@ Object Detection & Tracking
 5. Moving Object Detection & Tracking
 
 Image Processing
-1. Denoising
-2. Smoothing
+1. Color conversion
+2. Denoising
+3. Smoothing
 
 Machine Learning
 1. TensorFlow
