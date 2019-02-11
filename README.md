@@ -1,6 +1,6 @@
 # CV
 
-Computer Vision
+Object Detection & Tracking
 1. Background Subtraction
 2. Edge Dettection
 3. Hand Detection
