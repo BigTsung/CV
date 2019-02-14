@@ -7,7 +7,7 @@
 ### Object Detection & Tracking
 1. [Background Subtraction](https://github.com/BigTsung/CV/tree/master/DetectionAndTracking/BackgroundSubtraction)
 2. [Edge Detection](https://github.com/BigTsung/CV/tree/master/DetectionAndTracking/EdgeDetection)
-3. Hand Detection
+3. [Hand Detection](https://github.com/BigTsung/CV/tree/master/DetectionAndTracking/HandDetection)
 4. [Face Detection](https://github.com/BigTsung/CV/tree/master/DetectionAndTracking/FaceDetection)
 5. Moving Object Detection & Tracking
 
