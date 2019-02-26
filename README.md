@@ -13,8 +13,9 @@
 
 ### Image Processing
 1. [Color conversion](https://github.com/BigTsung/CV/tree/master/ImageProcessing/ColorConversion)
-2. Denoising
-3. Smoothing
+2. [Color Map](https://github.com/BigTsung/CV/tree/master/ImageProcessing/ColorMap)
+3. Denoising
+4. Smoothing
 
 ### Machine Learning
 1. TensorFlow
