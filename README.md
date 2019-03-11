@@ -17,6 +17,9 @@
 3. Denoising
 4. Smoothing
 
+### Recognition
+1. Face Recognition
+
 ### Machine Learning
 1. TensorFlow
 2. LibSVM
