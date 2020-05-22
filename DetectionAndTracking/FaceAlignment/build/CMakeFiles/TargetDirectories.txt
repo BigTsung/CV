@@ -1,0 +1,3 @@
+/Users/chiu/CHIU/dev/CV/DetectionAndTracking/FaceAlignment/build/CMakeFiles/rebuild_cache.dir
+/Users/chiu/CHIU/dev/CV/DetectionAndTracking/FaceAlignment/build/CMakeFiles/edit_cache.dir
+/Users/chiu/CHIU/dev/CV/DetectionAndTracking/FaceAlignment/build/CMakeFiles/FaceAlignment.dir
