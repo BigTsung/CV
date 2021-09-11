@@ -14,7 +14,7 @@
 ### Image Processing
 1. [Color conversion](https://github.com/BigTsung/CV/tree/master/ImageProcessing/ColorConversion)
 2. [Color Map](https://github.com/BigTsung/CV/tree/master/ImageProcessing/ColorMap)
-3. Denoising
+3. [Denoising](https://github.com/BigTsung/CV/tree/master/ImageProcessing/Denoising)
 4. [Smoothing](https://github.com/BigTsung/CV/tree/master/ImageProcessing/Smoothing)
 
 ### Recognition
